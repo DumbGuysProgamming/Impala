@@ -1,0 +1,9 @@
+drop table datamart.client;
+drop table datamart.client_type_map;
+drop table datamart.vehicle;
+drop table datamart.ownership;
+drop table datamart.service_transaction;
+drop table datamart.service;
+drop table datamart.shop;
+drop table datamart.shop_service;
+drop table metadata.datamart_change_log;
