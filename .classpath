@@ -1,0 +1,6 @@
+<classpath>
+
+	<classpathentry kind="lib"
+		path="G:/androidstudioprojects/impala/postgresql-9.4.1212.jar"/>
+
+</classpath>
